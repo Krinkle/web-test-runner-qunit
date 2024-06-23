@@ -16,7 +16,9 @@
     "build:src": "tsc --project src/tsconfig.json",
     "prepare": "npm run build"
   },
-  "keywords": [],
+  "keywords": [
+    "qunit-plugin"
+  ],
   "author": "Brandon Aaron",
   "license": "ISC",
   "repository": { "type": "git", "url": "git+https://github.com/brandonaaron/web-test-runner-qunit.git" },
